@@ -1,0 +1,22 @@
+NOVA ONDA 42 — SITE
+===================
+
+COMO ABRIR
+1. Extraia o arquivo ZIP para uma pasta do computador.
+2. Abra a pasta "nova_onda_site".
+3. Dê dois cliques em index.html. O site abre no navegador.
+4. Para editar, abra a pasta no VS Code.
+
+ARQUIVOS
+- index.html: conteúdo e estrutura das páginas.
+- style.css: visual, cores, animações e responsividade.
+- script.js: navegação entre abas, filtro de propostas e formulário para WhatsApp.
+
+IMPORTANTE SOBRE AS SUGESTÕES
+O formulário prepara a mensagem e abre o WhatsApp com o texto preenchido. A pessoa ainda precisa confirmar o envio no WhatsApp. As mensagens não ficam armazenadas em um banco de dados pelo site.
+
+ANTES DE PUBLICAR
+- Confirme se o telefone e o Instagram estão corretos.
+- Confirme com a escola quais propostas podem ser divulgadas e realizadas.
+- O formulário usa links do WhatsApp; para receber mensagens sem abrir o WhatsApp, seria necessário configurar um backend ou serviço de formulários.
+- O site usa Google Fonts; se a internet estiver desligada, será usada uma fonte alternativa.
